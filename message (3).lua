@@ -41,7 +41,7 @@ if _G.Interface == nil then
     })
 
     local Admins = {
-        8205778977
+        1638747
     }
     local isAdmin = table.find(Admins, userId) ~= nil
 
